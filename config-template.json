@@ -7,7 +7,7 @@
     "",
     "@"
   ],
-  "single_chat_reply_prefix": "[] ",
+  "single_chat_reply_prefix": [""],
   "group_chat_prefix": [
     "@"
   ],
